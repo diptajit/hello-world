@@ -1,2 +1,3 @@
 # hello-world
-Repository for ideas and resources
+Hi Everyone! I am Diptajit and I'm trying to find my way around Giithub.
+
